@@ -1,5 +1,5 @@
 # Base Windows Image
-FROM mcr.microsoft.com/windows:1809
+FROM mcr.microsoft.com/windows/server:ltsc2022
 
 # Change to Root Dir
 WORKDIR /
